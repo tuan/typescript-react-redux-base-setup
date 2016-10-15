@@ -1,0 +1,17 @@
+{
+    "rules": {
+        "indent": [
+            true,
+            "spaces"
+        ],
+        "max-line-length": [
+            true,
+            140
+        ],
+        "member-access": true,
+        "no-any": false,
+        "no-arg": true,
+        "no-bitwise": true,
+        "no-conditional-assignment": true
+    }
+}
